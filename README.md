@@ -2,6 +2,7 @@
 
 My name is Ioannis and I am an Earth Observation Data Scientist.
 
+Below, you can see the repositories which I use the most. I am interested in Remote Sensing, Climate Data and Earth Observation.
 <!--
 **ioanniszouros/ioanniszouros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
