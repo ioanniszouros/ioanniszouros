@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 My name is Ioannis and I am a Trainee at TNO.
 
