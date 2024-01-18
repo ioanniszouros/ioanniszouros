@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Ioannis and I am a Trainee at TNO.
+My name is Ioannis. I am a currently affiliated with TNO, The Netherlans, and with the University of Aegean, Greece.
 
 Below, you can see the repositories which I use the most.
 <!--
