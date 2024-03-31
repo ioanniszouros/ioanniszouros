@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Ioannis. I am a currently affiliated with TNO, The Netherlands, and with the University of Aegean, Greece.
+My name is Ioannis Zouros. I am a currently affiliated with TNO, The Netherlands, and with the University of Aegean, Greece.
 
 Below, you can see the repositories which I use the most.
 <!--
