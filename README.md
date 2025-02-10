@@ -1,8 +1,8 @@
 ### Hello! 👋
 
-My name is Ioannis Zouros. I am a currently affiliated with TNO, The Netherlands, and with the University of Aegean, Greece.
+My name is Ioannis Zouros. I am a Project Manager in TNO, the applied science and technology organization of the Netherlands. 
 
-Below, you can see the repositories which I use the most.
+Below, you can see the repositories which I used the most.
 <!--
 **ioanniszouros/ioanniszouros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
